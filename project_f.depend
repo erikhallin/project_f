@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1440792367 source:c:\erikprogram\project_f\project_f - new\game.cpp
+	"game.h"
+
+1440792320 c:\erikprogram\project_f\project_f - new\game.h
+	<gl/gl.h>
+	<vector>
+	<ctime>
+	"definitions.h"
+	"factory.h"
+	"unit.h"
+	"hud.h"
+	"projectile.h"
+	"networkCom.h"
+	"menu.h"
+
+1440792327 c:\erikprogram\project_f\project_f - new\definitions.h
+	<math.h>
+	<stdlib.h>
+
+1436467086 c:\erikprogram\project_f\project_f - new\factory.h
+	<windows.h>
+	<gl/gl.h>
+	"definitions.h"
+
+1437748335 c:\erikprogram\project_f\project_f - new\unit.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1436723322 c:\erikprogram\project_f\project_f - new\hud.h
+	<SOIL/soil.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<vector>
+	<ctime>
+	"definitions.h"
+	"factory.h"
+	"unit.h"
+	"display.h"
+
+1436723322 source:c:\erikprogram\project_f\project_f - new\hud.cpp
+	"hud.h"
+
+1440185798 source:c:\erikprogram\project_f\project_f - new\main.cpp
+	<iostream>
+	<windowsx.h>
+	<winsock2.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<time.h>
+	"definitions.h"
+	"game.h"
+	"networkCom.h"
+
+1436898041 source:c:\erikprogram\project_f\project_f - new\unit.cpp
+	"unit.h"
+
+1436467107 source:c:\erikprogram\project_f\project_f - new\factory.cpp
+	"factory.h"
+
+1437746904 c:\erikprogram\project_f\project_f - new\projectile.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1437747386 source:c:\erikprogram\project_f\project_f - new\projectile.cpp
+	"projectile.h"
+
+1436248092 c:\erikprogram\project_f\project_f - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1436248090 source:c:\erikprogram\project_f\project_f - new\display.cpp
+	"display.h"
+
+1378561454 source:c:\erikprogram\project_f\project_f - new\clientcom.cpp
+	"clientCom.h"
+
+1378541744 c:\erikprogram\project_f\project_f - new\clientcom.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1387490067 c:\erikprogram\project_f\project_f - new\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1378541744 c:\erikprogram\project_f\project_f - new\servercom.h
+	<iostream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1379839027 source:c:\erikprogram\project_f\project_f - new\networkcom.cpp
+	"networkCom.h"
+
+1384116697 source:c:\erikprogram\project_f\project_f - new\servercom.cpp
+	"serverCom.h"
+
+1440790406 c:\erikprogram\project_f\project_f - new\menu.h
+	<SOIL/soil.h>
+	<gl/gl.h>
+	<vector>
+	<iostream>
+	"definitions.h"
+
+1440184955 source:c:\erikprogram\project_f\project_f - new\menu.cpp
+	"menu.h"
+	<cassert>
+
